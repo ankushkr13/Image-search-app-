@@ -1,0 +1,17 @@
+.inp {
+  text-align: center;
+  padding: 20px;
+}
+input {
+    padding: 8px;
+    border: none;
+    outline: none;
+}
+button {
+    padding: 9px;
+    border: none;
+    margin: 2px;
+    background: rgb(10, 68, 123);
+    color: white;
+    cursor: pointer;
+}

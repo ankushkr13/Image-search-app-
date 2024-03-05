@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  background: rgb(35, 22, 54);
+  color: white;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+}
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+
